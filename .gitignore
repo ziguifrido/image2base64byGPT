@@ -1,0 +1,10 @@
+# Ignore image files in the root directory
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+
+# Ignore text files in the root directory
+*.txt
